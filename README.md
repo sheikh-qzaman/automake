@@ -1,0 +1,2 @@
+# automake
+Automake Test
